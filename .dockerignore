@@ -1,7 +1,3 @@
 .git
 .env
-vendor
-node_modules
-storage/legacy
-storage/screenshots
 *.log
