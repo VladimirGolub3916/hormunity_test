@@ -2,7 +2,6 @@
 .env
 vendor
 node_modules
-shop
 storage/legacy
 storage/screenshots
 *.log
